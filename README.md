@@ -1,6 +1,6 @@
 # Döviz Kuru Takip ve Haber Sitesi
 
-Bu proje, güncel döviz kurlarını ve ekonomi haberlerini takip etmek için geliştirilmiş bir web uygulamasıdır. Proje, Exchange Rate API kullanarak döviz kurlarını ve çeşitli haber kaynaklarından RSS beslemeleri alarak ekonomi haberlerini sunar.
+Bu proje, güncel döviz kurlarını ve ekonomi haberlerini takip etmek için geliştirilmiş bir web uygulamasıdır. Proje, Exchange Rate API kullanarak döviz kurlarını ve çeşitli haber kaynaklarından RSS feedleri alarak ekonomi haberlerini sunar.
 
 ## Özellikler
 
