@@ -63,5 +63,5 @@ Bu proje açık kaynaklıdır ve MIT lisansı altında dağıtılmaktadır.
 
 ## İletişim
 
-Proje hakkında sorularınız veya önerileriniz için [e-posta adresiniz] adresine e-posta gönderebilirsiniz.
+Proje hakkında sorularınız veya önerileriniz için [musabyusufustun@outlook.com] adresine e-posta gönderebilirsiniz.
 
