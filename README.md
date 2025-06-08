@@ -4,11 +4,11 @@ Bu proje, güncel döviz kurlarını ve ekonomi haberlerini takip etmek için ge
 
 ## Özellikler
 
-- **Döviz Kurları:** Popüler döviz kurlarının TL karşısındaki güncel değerleri
-- **Detaylı Kur Bilgisi:** Seçilen döviz için detaylı bilgi ve geçmiş veriler
-- **Ekonomi Haberleri:** RSS beslemelerinden alınan güncel ekonomi ve finans haberleri
-- **Responsive Tasarım:** Mobil cihazlara uyumlu kullanıcı arayüzü
-- **Koyu Tema:** Göz yormayan modern bir arayüz
+- **Döviz Kurları:** Popüler döviz kurlarının TL karşısındaki güncel değerleri.
+- **Detaylı Kur Bilgisi:** Seçilen döviz için detaylı bilgi ve geçmiş veriler.
+- **Ekonomi Haberleri:** RSS beslemelerinden alınan güncel ekonomi ve finans haberleri.
+- **Responsive Tasarım:** Mobil cihazlara uyumlu kullanıcı arayüzü.
+- **Koyu Tema:** Göz yormayan modern bir arayüz.
 
 ## Teknolojiler
 
